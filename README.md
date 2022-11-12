@@ -20,6 +20,8 @@ Hi, I’m Ezra.
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-black?style=flat-square&logo=azuredevops)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-black?style=flat-square&logo=amazonaws)
 ![Sentry](https://img.shields.io/badge/-Sentry-black?style=flat-square&logo=sentry)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
+![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
 
 ## What I'm currently learning:
 
