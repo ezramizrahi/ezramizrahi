@@ -14,10 +14,12 @@ Hi, I’m Ezra.
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-black?style=flat-square&logo=puppeteer)
+![Cucumber](https://img.shields.io/badge/-Cucumber-black?style=flat-square&logo=cucumber)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
 ![k6](https://img.shields.io/badge/-k6-black?style=flat-square&logo=k6)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-black?style=flat-square&logo=azuredevops)
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-black?style=flat-square&logo=amazonaws)
 
 ## What I'm currently learning:
 
