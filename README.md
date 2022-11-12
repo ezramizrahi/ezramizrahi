@@ -20,6 +20,7 @@ Hi, I’m Ezra.
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-black?style=flat-square&logo=azuredevops)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-black?style=flat-square&logo=amazonaws)
+![Sentry](https://img.shields.io/badge/-Sentry-black?style=flat-square&logo=sentry)
 
 ## What I'm currently learning:
 
