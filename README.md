@@ -17,7 +17,7 @@ Hi, I’m Ezra.
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
 ![k6](https://img.shields.io/badge/-k6-black?style=flat-square&logo=k6)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
-![Azure DevOps](https://img.shields.io/badge/-Azure DevOps-black?style=flat-square&logo=azuredevops)
+![Azure DevOps](https://img.shields.io/badge/-Azure-DevOps-black?style=flat-square&logo=azuredevops)
 
 ## What I'm currently learning:
 
