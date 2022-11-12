@@ -8,7 +8,7 @@ Hi, I’m Ezra.
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
