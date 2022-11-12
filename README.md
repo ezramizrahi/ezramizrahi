@@ -1,6 +1,6 @@
 Hi, I’m Ezra.
 
-## My skills:
+### My skills:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -21,7 +21,7 @@ Hi, I’m Ezra.
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-black?style=flat-square&logo=amazonaws)
 ![Sentry](https://img.shields.io/badge/-Sentry-black?style=flat-square&logo=sentry)
 
-## What I'm currently learning:
+### What I'm currently learning:
 
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
