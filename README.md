@@ -17,10 +17,10 @@ Fullstack development and test automation.
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![k6](https://img.shields.io/badge/-k6-black?style=flat-square&logo=k6)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Sentry](https://img.shields.io/badge/-Sentry-black?style=flat-square&logo=sentry)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-black?style=flat-square&logo=azuredevops)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-black?style=flat-square&logo=amazonaws)
-![Sentry](https://img.shields.io/badge/-Sentry-black?style=flat-square&logo=sentry)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
