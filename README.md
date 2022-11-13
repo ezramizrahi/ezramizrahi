@@ -23,6 +23,7 @@ Fullstack development and test automation.
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 ### What I'm currently learning:
 
