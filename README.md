@@ -31,6 +31,7 @@ Fullstack development and test automation.
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
 ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
